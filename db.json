@@ -1,5 +1,57 @@
 {
-"userinfo":["xh1","xh2"],
-  "name": "1",
-"versionmessage":"1"
+  "userinfo": {
+    "privacy": {
+      "version": "V1.0",
+      "msg": "fix some bugs",
+      "isios": 0,
+      "iosU": "67dwhid",
+      "Area": [
+    {
+          "key": "cache",
+          "name": "1",
+          "value": "",
+          "code": "2"
+        },
+        {
+          "key": "image",
+          "name": "1",
+          "value": "3",
+          "code": ""
+        },
+        {
+          "key": "colod",
+          "name": "1",
+          "value": "lis",
+          "code": ""
+        }
+      ],
+      "Event": [
+        "test",
+        "register",
+        "Log_in",
+        "Place_an_order",
+        "pay",
+        "firstDepositArrival",
+        "login",
+        "deposit",
+        "redeposit",
+        "withdraw"
+      ],
+      "ID": [
+        "testid",
+        "g9vi0y",
+        "ug1gkm",
+        "sx8lep",
+        "8tyaee",
+        "r9rr4j",
+        "1aznne",
+        "1ie2wf",
+        "ancy5n",
+        "j4zbtw"
+      ],
+      "quertip": [
+        
+      ]
+    }
+  }
 }
