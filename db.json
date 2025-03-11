@@ -2,14 +2,14 @@
   "userinfo": {
     "privacy": {
       "version": "V1.0",
-      "msg": "fix some bugs",
+      "msg": "0",
       "isios": 0,
       "iosU": "67dwhid",
       "Area": [
     {
-          "key": "cache",
+          "key": "CN",
           "name": "1",
-          "value": "",
+          "value": "https://www.baidu.com",
           "code": "2"
         },
         {
