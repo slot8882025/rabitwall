@@ -4,22 +4,22 @@
       "version": "V1.0",
       "msg": "0",
       "isios": 0,
-      "iosU": "67dwhid",
+      "iosU": "e5vhfqc593wg",
       "Area": [
     {
-          "key": "HK",
+          "key": "PH",
           "name": "1",
           "value": "fengxian",
           "code": "2"
         },
         {
-          "key": "image",
+          "key": "BD",
           "name": "1",
           "value": "3",
           "code": ""
         },
         {
-          "key": "colod",
+          "key": "BR",
           "name": "1",
           "value": "lis",
           "code": ""
@@ -27,27 +27,45 @@
       ],
       "Event": [
         "test",
+        "deposit_click",
+        "deposit_success",
+        "first_deposit",
+        "home_view",
+        "login_click",
+        "login_success",
+        "logout_success",
+        "register_success",
+        "login",
         "register",
+        "deposit",
+        "redeposit",
+        "firstDepositArrival",
+        "withdraw",
         "Log_in",
         "Place_an_order",
         "pay",
-        "firstDepositArrival",
-        "login",
-        "deposit",
-        "redeposit",
-        "withdraw"
+        "firstDepositArrival"
       ],
       "ID": [
         "testid",
-        "g9vi0y",
-        "ug1gkm",
-        "sx8lep",
-        "8tyaee",
-        "r9rr4j",
-        "1aznne",
-        "1ie2wf",
-        "ancy5n",
-        "j4zbtw"
+        "xou406",
+        "k8t3fm",
+        "btb1yk",
+        "uf95de",
+        "blmg0i",
+        "rusizi",
+        "gp0np2",
+        "rze94c",
+        "yxt56i",
+        "vn68aq",
+        "qbdpcd",
+        "ed8153",
+        "ljbrkm",
+        "ew97k1",
+        "v0yem8",
+        "2ep32t",
+        "50cbnv",
+        "ljbrkm"
       ],
       "quertip": [
         
